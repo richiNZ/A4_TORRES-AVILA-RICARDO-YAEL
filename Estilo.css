@@ -1,0 +1,28 @@
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 75%;
+}
+
+textarea, select, button {
+  border-radius: 3px;
+}
+input[type="submit"] {
+  background: gray;
+  border-radius: 3px;
+}
+input[type="reset"] {
+  background: gray;
+  border-radius: 3px;
+}
+input[type="text"]{
+  border: 3px solid skyblue;
+}
+input[type="password"]{
+  border: 3px solid royalblue;
+}
+input[type="text"] {
+  background-image: linear-gradient(to right, pink, lightgreen);
+}
+input[type="password"] {
+  background-image: linear-gradient(to right, pink, lightgreen);
+  }
